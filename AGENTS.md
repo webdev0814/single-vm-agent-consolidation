@@ -1,10 +1,10 @@
 # Agent Briefing: single-vm-agent-consolidation
 
 ## 1. Repository Overview & Purpose
-- **Repository Name**: `single-vm-agent-consolidation`
+- **Repository**: `webdev0814/single-vm-agent-consolidation`
 - **Visibility**: `Public`
 - **Default Branch**: `main`
-- **Last Updated / Pushed**: 2026-06-03
+- **Last Updated / Pushed**: 2026-09-04
 - **Description**: Battle-tested guide to merge Hermes Agent and OpenClaw onto a single Oracle Always Free VM with zero downtime.
 - **Context from README**: > **Stop paying for two VMs. Merge your Hermes Agent and OpenClaw onto a single Oracle Always Free instance — zero downtime, zero lost memory.** --- This is a battle-tested migration guide for consolidating a [Hermes Agent](https://github.com/NousResearch/hermes-agent) installation from a dedicated ...
 - **Topics/Tags**: docker, hermes, oracle-cloud, vm-migration
@@ -14,7 +14,7 @@
 ## 2. Tech Stack & Architecture
 - **Primary Language / Ecosystem**: General / Multi-language
 - **Key Directories**: Single root directory structure.
-- **Notable Top-Level Files**: `.gitignore`, `LICENSE`, `README.md`, `SKILL.md`
+- **Notable Top-Level Files**: `.gitignore`, `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `LICENSE`, `README.md`, `SKILL.md`
 
 ---
 
@@ -38,6 +38,9 @@
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[5d56089]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[0f719d6]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[81c8a90]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[4a54ce4]` (2026-06-03) Initial commit: Hermes-to-OpenClaw migration skill
 
 ---
