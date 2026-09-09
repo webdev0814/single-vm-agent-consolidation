@@ -4,7 +4,7 @@
 - **Repository**: `webdev0814/single-vm-agent-consolidation`
 - **Visibility**: `Public`
 - **Default Branch**: `main`
-- **Last Updated / Pushed**: 2026-09-08
+- **Last Updated / Pushed**: 2026-09-09
 - **Description**: Battle-tested guide to merge Hermes Agent and OpenClaw onto a single Oracle Always Free VM with zero downtime.
 - **Context from README**: > **Stop paying for two VMs. Merge your Hermes Agent and OpenClaw onto a single Oracle Always Free instance — zero downtime, zero lost memory.** --- This is a battle-tested migration guide for consolidating a [Hermes Agent](https://github.com/NousResearch/hermes-agent) installation from a dedicated ...
 - **Topics/Tags**: docker, hermes, oracle-cloud, vm-migration
@@ -38,6 +38,9 @@
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[f158df4]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
+- `[96dd089]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
+- `[c1b2542]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[a92a329]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[5b89852]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[7f83846]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
@@ -45,9 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[56206fb]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[fcbe183]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[677a733]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
-- `[e836111]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
-- `[c91b3c8]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
-- `[d4a8bf6]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
 
 ---
 
